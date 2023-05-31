@@ -15,7 +15,7 @@ My major interest is game development 🕹️
 3. <a href = https://github.com/kiyounkim/23-1Project> My Third Project </a><br>
     Team Project<br>
     Contributions: Director / Character Control / Enemy Spawning / Effects / Asset Management / Overall Design<br>
-4. My Fourth Project <Not Yet>
+4. My Fourth Project (Not Yet)
     
 And Many More to Come!
  
