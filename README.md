@@ -3,7 +3,7 @@ Welcome to my profile! My name is Kiyoun Kim!
 
 #### 🌱 I’m currently ...
 Student in HGU majoring in Computer Science 🖥️<br>
-My major interest is game development 🕹️
+My current major interest is Game Development 🕹️
 <!--
 #### 🔭 I worked on ...
 1. <a href = https://github.com/kiyounkim/2022-2_sirius_project> My First Project </a><br>
