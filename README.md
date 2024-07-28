@@ -33,3 +33,6 @@ Participate in Bigger Project!
  
  #### 📫 Contact Me
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidkim970911@gmail.com)](mailto:davidkim970911@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:davidkim970911@naver.com)](mailto:davidkim970911@naver.com)
+
+ #### 🏠 Notion Site
+ https://kkimdev.notion.site/Game-Developer-a3bf05831fb44a21a679bac43f3c98ef
