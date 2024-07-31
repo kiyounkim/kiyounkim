@@ -4,6 +4,7 @@ Welcome to my profile! My name is Kiyoun Kim!
 #### 🌱 I’m currently ...
 Student in HGU majoring in Computer Science 🖥️<br>
 My current major interest is Game Development 🕹️
+
 <!--
 #### 🔭 I worked on ...
 1. <a href = https://github.com/kiyounkim/2022-2_sirius_project> My First Project </a><br>
@@ -30,9 +31,11 @@ Learn/Use Unreal Engine<br>
 Make Mobile Game<br>
 Participate in Bigger Project! 
  -->
+
+ #### 🏠 Check out my Notion Site!
+ https://kkimdev.notion.site/Game-Developer-a3bf05831fb44a21a679bac43f3c98ef
  
  #### 📫 Contact Me
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidkim970911@gmail.com)](mailto:davidkim970911@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:davidkim970911@naver.com)](mailto:davidkim970911@naver.com)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkimdev97@gmail.com)](mailto:kkimdev97@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:davidkim970911@naver.com)](mailto:davidkim970911@naver.com)
 
- #### 🏠 Notion Site
- https://kkimdev.notion.site/Game-Developer-a3bf05831fb44a21a679bac43f3c98ef
+
